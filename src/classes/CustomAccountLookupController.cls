@@ -1,3 +1,4 @@
+/* Test comment */
 public with sharing class CustomAccountLookupController {
 
   public Account account {get;set;} // new account to create

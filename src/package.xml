@@ -8,5 +8,10 @@
         <members>Customer__c</members>
         <name>CustomObject</name>
     </types>
+    <!-- Test-->
+    <types>
+        <members>Customer__c</members>
+        <name>Workflow</name>
+    </types>
     <version>36.0</version>
 </Package>

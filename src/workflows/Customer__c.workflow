@@ -15,7 +15,7 @@
             <name>Verify</name>
             <type>FieldUpdate</type>
         </actions>
-        <active>false</active>
+        <active>true</active>
         <criteriaItems>
             <field>Customer__c.Name__c</field>
             <operation>notEqual</operation>

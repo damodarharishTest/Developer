@@ -1,3 +1,4 @@
+/* Test comments */
 public class AccountInsertAction {
   @InvocableMethod(label='Insert Accounts' description='Inserts the accounts specified and returns the IDs of the new accounts.')
   public static List<ID> insertAccounts(List<Account> accounts) {
